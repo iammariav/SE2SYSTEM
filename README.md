@@ -130,5 +130,5 @@ PORT=3000
 
 ## Testing
 
-Local Testing: Use Postman with http://localhost:3000 as the base URL
-Postman Demo Video: https://drive.google.com/drive/folders/18S1ii-iZIJMpBCWARLcZCBzkY0HZ9_t3?usp=sharing
+- Local Testing: Use Postman with http://localhost:3000 as the base URL
+- Postman Demo Video: https://drive.google.com/drive/folders/18S1ii-iZIJMpBCWARLcZCBzkY0HZ9_t3?usp=sharing
