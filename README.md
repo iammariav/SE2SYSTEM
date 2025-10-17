@@ -121,12 +121,12 @@ PORT=3000
 
 ## Key Features
 
-> Complete CRUD operations for all entities
-> Connected to MongoDB Atlas
-> Follows MVC structure
-> Environment variables for security
-> Fully compatible with Postman
-> JSON-based, REST-compliant responses
+- Complete CRUD operations for all entities
+- Connected to MongoDB Atlas
+- Follows MVC structure
+- Environment variables for security
+- Fully compatible with Postman
+- JSON-based, REST-compliant responses
 
 ## Testing
 
