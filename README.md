@@ -16,6 +16,9 @@ Follows MVC pattern for clean separation of concerns
 
 Database hosted on MongoDB Atlas.
 
+## BASE URL 
+http://localhost:3000/api
+
 # 🌐 API Endpoints
 
 ## Patient Routes
