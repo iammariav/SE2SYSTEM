@@ -1,6 +1,6 @@
 #  Backend API Project (Clinic Appointment System API)
 
-## Project Overview
+# Project Overview
 
 ## The Clinic Appointment Management API streamlines clinic operations by providing:
 
